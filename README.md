@@ -28,7 +28,10 @@ This data includes the biogeochemical RMS error calculated from voyage data.
 This is the script for interpolating vertical profiles
 ### 'oxy_auo_pho_nox.m'
 This is the code used to generate Figure 7 in the manuscript.
-
+### 'cmocean.m'
+This is the code to add a colorbar to the figures
+### 'Thickness_change.m'
+This is the code for calculating the thickness change and crease figure 6 in the manuscript.
 
 
  
